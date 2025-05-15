@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">SportFinder</string>
+    <string name="app_description">Find sports venues near you</string>
+    <string name="app_logo">App logo</string>
+
+    <!-- Main menu -->
+    <string name="menu_map">Map</string>
+    <string name="menu_add_place">Add Place</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_login">Login</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+
+    <!-- Map -->
+    <string name="map_my_location">My location</string>
+    <string name="map_search_hint">Search a place…</string>
+    <string name="latitude_format">Latitude: %1$.6f</string>
+    <string name="longitude_format">Longitude: %1$.6f</string>
+
+    <!-- Forms -->
+    <string name="form_name">Name</string>
+    <string name="form_description">Description</string>
+    <string name="form_email">Email</string>
+    <string name="form_password">Password</string>
+    <string name="form_save">Save</string>
+    <string name="form_cancel">Cancel</string>
+
+    <!-- Messages -->
+    <string name="msg_location_permission_required">Location permission is required</string>
+    <string name="msg_camera_permission_required">Camera permission is required</string>
+    <string name="msg_success_save">Successfully saved</string>
+    <string name="msg_error_save">Error while saving</string>
+</resources>

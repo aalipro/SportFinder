@@ -1,0 +1,41 @@
+<resources>
+    <!-- Nom de l'application -->
+    <string name="app_name">SportFinder</string>
+    <string name="app_description">Trouvez des lieux de sport près de chez vous</string>
+    <string name="app_logo">Logo de l\'application</string>
+
+    <!-- Menu principal -->
+    <string name="menu_map">Carte</string>
+    <string name="menu_add_place">Ajouter un lieu</string>
+    <string name="menu_favorites">Favoris</string>
+    <string name="menu_account">Compte</string>
+    <string name="menu_profile">Profil</string>
+    <string name="menu_login">Connexion</string>
+
+    <!-- Navigation -->
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+
+    <!-- Carte -->
+    <string name="map_my_location">Ma position</string>
+    <string name="map_search_hint">Rechercher un lieu…</string>
+    <string name="latitude_format">Latitude : %1$.6f</string>
+    <string name="longitude_format">Longitude : %1$.6f</string>
+    <string name="address_searching">Recherche de l\'adresse…</string>
+    <string name="address_format">Adresse : %1$s</string>
+    <string name="address_not_found">Adresse non trouvée</string>
+
+    <!-- Formulaires -->
+    <string name="form_name">Nom</string>
+    <string name="form_description">Description</string>
+    <string name="form_email">Email</string>
+    <string name="form_password">Mot de passe</string>
+    <string name="form_save">Enregistrer</string>
+    <string name="form_cancel">Annuler</string>
+
+    <!-- Messages -->
+    <string name="msg_location_permission_required">La permission de localisation est nécessaire</string>
+    <string name="msg_camera_permission_required">La permission de la caméra est nécessaire</string>
+    <string name="msg_success_save">Enregistrement réussi</string>
+    <string name="msg_error_save">Erreur lors de l\'enregistrement</string>
+</resources>
